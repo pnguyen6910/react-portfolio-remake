@@ -9,7 +9,7 @@ const About = () => (
                     <hr />
                     <div className="row">
                         <div className="col-lg-3">
-                            <img className="image-fluid" src="paul2.JPG" alt="Bio" id="bio-image" />
+                            <img className="image-fluid" src="./assets/paul6.png" alt="Bio" id="bio-image" />
                         </div>
                         <div className="col-lg-9">
                             <div className="bio-text">
